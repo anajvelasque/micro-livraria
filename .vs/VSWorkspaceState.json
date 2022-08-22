@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\proto",
+    "\\services",
+    "\\services\\controller",
+    "\\services\\inventory"
+  ],
+  "SelectedNode": "\\services\\controller\\index.js",
+  "PreviewInSolutionExplorer": false
+}
